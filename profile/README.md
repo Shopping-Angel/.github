@@ -59,4 +59,4 @@ Whether you’re a developer, designer, researcher, or simply passionate about t
 ## 💡 Our Long-Term Vision
 Shopping Angel is the first step in a much larger journey: creating systems and platforms that **empower communities, strengthen economies, and inspire independence**.  
 
-This GitHub organization is where that vision becomes code.  
+This is where that vision becomes code.  
